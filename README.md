@@ -14,3 +14,7 @@
 
 ![](.github/gobabr.png)
 
+
+# :eyes: latest updates
+
+## :heavy_check_mark: added onFucus/onBlur function in the inputs.
