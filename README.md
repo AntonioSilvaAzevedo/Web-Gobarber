@@ -1,6 +1,6 @@
 # GoBarber
 
-## :rocket: repository created to follow the development of the project according to its progress in the bootcamp. I will be adding the coomits as the development progresses.
+## :rocket: repository created to follow the development of the project according to its progress in the bootcamp. I will be adding the commits as the development progresses.
 
 
 
