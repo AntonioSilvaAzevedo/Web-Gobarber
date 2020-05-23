@@ -17,8 +17,8 @@
 
 # :eyes: latest updates
 
-#### :heavy_check_mark: Added onFucus/onBlur function in the inputs.
-#### :heavy_check_mark: added Yup for validation
+ :heavy_check_mark: Added onFucus/onBlur function in the inputs.
+:heavy_check_mark: added Yup for validation
 
 
 # :blue_book: Framworks and libraries
