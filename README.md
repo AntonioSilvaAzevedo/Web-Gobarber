@@ -22,6 +22,7 @@
 ##### :heavy_check_mark: added Yup for validation.
 ##### :heavy_check_mark: added tooltip error in inputs.
 ##### :heavy_check_mark: input errors added to the login page.
+##### :heavy_check_mark: adding context API.
 
 # :blue_book: Framworks and libraries
 

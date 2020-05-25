@@ -5,9 +5,13 @@ import SingUp from './pages/SingUp';
 
 import GlobalStyle from './styles/global';
 
+import AuthContext from './context/AuthContext';
+
 const App: React.FC = () => (
   <>
-    <SingIn />
+    <AuthContext.Provider value={{ name: 'Antonio ' }}>
+      <SingIn />
+    </AuthContext.Provider>
     <GlobalStyle />
   </>
 );
