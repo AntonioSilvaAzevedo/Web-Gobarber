@@ -40,7 +40,7 @@ export const Container = styled.div<ContainerProps>`
 
   ${props =>
     props.isFilled &&
-    css`'
+    css`
       color: #ff9000;
     `}
 
