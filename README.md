@@ -24,12 +24,13 @@
 ##### :heavy_check_mark: input errors added to the login page.
 ##### :heavy_check_mark: adding context API.
 ##### :heavy_check_mark: adding toast messages
+##### :heavy_check_mark: login and user registration pages completed with the appropriate authentication rules.
 
 # :blue_book: Framworks and libraries
 
 ##### :arrow_forward: YUP
 ##### :arrow_forward: Form
-##### :arrow_forward: Ract-spring
+##### :arrow_forward: Ract-spring for toast animations
 
 
 
