@@ -1,5 +1,5 @@
 <h3 align="center">
-    <img alt="Logo" title="#logo" width="300px" src=".github/logo.svg">
+    <img alt="Logo" title="#logo" width="300px" src=".github/Logo.svg">
     <br><br>
     <b>Bootcamp GoStack! :rocket: </b>
     <br>
@@ -9,9 +9,9 @@
 
 #  :barber: GoBarber - Web
 
-### :barber: This project was developed during the bootcamp at Rocketseat with the <strong>Javascript</strong> ecosystem using <strong>ReactJs</strong> on the front-end.
+ :barber: This project was developed during the bootcamp at Rocketseat with the <strong>Javascript</strong> ecosystem using <strong>ReactJs</strong> on the front-end.
 
-### :heavy_check_mark: this web application consists of displaying the schedules marked with date and time for service providers, such as barbers. Displaying the next customer on your dashboard
+:heavy_check_mark: this web application consists of displaying the schedules marked with date and time for service providers, such as barbers. Displaying the next customer on your dashboard
 
 
 
