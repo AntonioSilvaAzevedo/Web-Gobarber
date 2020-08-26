@@ -5,6 +5,9 @@
     <br>
 </h3>
 
+[![Author](https://img.shields.io/badge/author-AntonioSilvaAzevedo-blue?style=plastic)](https://github.com/AntonioSilvaAzevedo)
+![GitHub repo size](https://img.shields.io/github/repo-size/AntonioSilvaAzevedo/GoBarber---Front?style=plastic)
+
 
 
 #  :barber: GoBarber - Web
@@ -15,8 +18,7 @@
 
 
 
-[![Author](https://img.shields.io/badge/author-AntonioSilvaAzevedo-blue?style=plastic)](https://github.com/AntonioSilvaAzevedo)
-![GitHub repo size](https://img.shields.io/github/repo-size/AntonioSilvaAzevedo/GoBarber---Front?style=plastic)
+
 
 <a id="como-usar"></a>
 
