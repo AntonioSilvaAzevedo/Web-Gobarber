@@ -1,36 +1,51 @@
-# GoBarber
+<h3 align="center">
+    <img alt="Logo" title="#logo" width="300px" src=".github/logo.svg">
+    <br><br>
+    <b>Bootcamp GoStack! :rocket: </b>
+    <br>
+</h3>
 
-## :rocket: Repository created to follow the development of the project according to its progress in the bootcamp. I will be adding the commits as the development progresses.
 
 
+#  :barber: GoBarber - Web
 
+### :barber: This project was developed during the bootcamp at Rocketseat with the <strong>Javascript</strong> ecosystem using <strong>ReactJs</strong> on the front-end.
+
+### :heavy_check_mark: this web application consists of displaying the schedules marked with date and time for service providers, such as barbers. Displaying the next customer on your dashboard
 
 
 
 [![Author](https://img.shields.io/badge/author-AntonioSilvaAzevedo-blue?style=plastic)](https://github.com/AntonioSilvaAzevedo)
-![GitHub last commit](https://img.shields.io/github/last-commit/AntonioSilvaAzevedo/GoBarber---Front?style=plastic)
 ![GitHub repo size](https://img.shields.io/github/repo-size/AntonioSilvaAzevedo/GoBarber---Front?style=plastic)
 
+<a id="como-usar"></a>
 
-![](.github/gobabr.png)
- ![](.github/gobarberSingIn.png)
+## :zap: How to use:
 
 
-# :eyes: latest updates
+ Running the Application:
 
-##### :heavy_check_mark: Added onFucus/onBlur function in the inputs.
-##### :heavy_check_mark: added Yup for validation.
-##### :heavy_check_mark: added tooltip error in inputs.
-##### :heavy_check_mark: input errors added to the login page.
-##### :heavy_check_mark: adding context API.
-##### :heavy_check_mark: adding toast messages
-##### :heavy_check_mark: login and user registration pages completed with the appropriate authentication rules.
+```sh
+  # Install the dependencies
+  $ yarn
 
-# :blue_book: Framworks and libraries
+  ## before running the web application, you must connect with the API
+  ## to acccess the database,
+  ## it is found in some of my repositories
 
-##### :arrow_forward: YUP
-##### :arrow_forward: Form
-##### :arrow_forward: Ract-spring for toast animations
+  # Launch the web application
+  $ yarn start
 
+```
+
+
+![](.github/Capa.svg)
+
+
+
+
+<h4 align="center">
+    Feito com 💜 by <a href="https://www.linkedin.com/in/antonio-carlos-44b106129/" target="_blank">Antonio Carlos</a>
+</h4>
 
 
